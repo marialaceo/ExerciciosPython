@@ -1,0 +1,1 @@
+Essa pasta contém meus execícios nos estudos de Python.
